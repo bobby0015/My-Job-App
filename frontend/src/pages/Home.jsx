@@ -4,7 +4,7 @@ import React from "react";
 const Home = () => {
   return (  
     <main>
-      <div className="h-[60vh]">
+      <div className="md:h-[60vh] h-auto">
         <Croausel/>
       </div>
     </main>
